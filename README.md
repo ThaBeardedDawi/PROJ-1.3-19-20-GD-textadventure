@@ -1,5 +1,5 @@
 ## MaQuest
-gamedeveloper :[jouw naam]
+gamedeveloper : Bram Koning
 
 ### Korte omschrijving van de game
 ...
